@@ -2,7 +2,7 @@
 ![chainsaw-man-csm](https://github.com/user-attachments/assets/1ed650e1-19fa-4adf-a2ac-d941121c74a0)
 
 # 💫 About Me:
-Hi everyone, I'm Arseniy Sayni 👋<br><br>👨‍💻 Python developer<br>💤 I'm working on Hydro-Assistant.
+Hi everyone, I'm Arseniy Seventy 👋<br><br>👨‍💻 Python developer<br>💤 I'm working on Hydro-Assistant.
 
 
 ## 🌐 Socials:
